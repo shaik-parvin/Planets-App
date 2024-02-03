@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.img {
+  width: 300px;
+}
+
+.heading {
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+
+.para {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  text-align: center;
+}
